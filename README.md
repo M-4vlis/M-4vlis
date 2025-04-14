@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Mario Pereira]!
 
-<!--
-**M-4vlis/M-4vlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📚 Estudante de Ciências de Dados | 🌟 Buscando oportunidades na área**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Habilidades Técnicas**  
+- **Linguagens**: Python, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, XGBoost, Pandas  
+- **Visualização de Dados**: Matplotlib, Seaborn, Power BI  
+- **Ferramentas**: Git, Docker, Jupyter Notebook, Google Colab  
+
+---
+
+## 🚀 **Projetos Destacados**  
+
+| Projeto | Descrição | Tecnologias |  
+|---------|-----------|-------------|  
+| [Análise de Churn de Clientes](https://github.com/M-4vlis/churn-prediction) |
+
+---
+
+## 📊 **Estatísticas do GitHub**  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=M-4vlis&theme=dark)](https://git.io/streak-stats)  
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=M-4vlis&layout=compact&theme=vision-friendly-dark)](https://github.com/M-4vlis)  
+
+---
+
+## 📫 **Contato**  
+- LinkedIn: [Mario Pereira](https://www.linkedin.com/in/omario-silva96) 
+- Email: omario.pereira96@gmail.com 
