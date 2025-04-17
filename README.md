@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Mario Pereira]!
+# 👋 Olá, eu sou Mario Pereira!
 
 **📚 Estudante de Ciências de Dados | 🌟 Buscando oportunidades na área**
 
