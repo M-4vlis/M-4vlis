@@ -1,51 +1,66 @@
-## 👋 Olá, eu sou Mario Pereira! | Data Scientist em Ascensão 🚀
+# 👋 Opa! Eu sou o Mario — Explorador de Dados e Criador de Soluções Digitais
 
-Sou um estudante de Ciências de Dados com uma paixão ardente por tecnologia, e um profundo apreço pela arte de transformar dados em conhecimento. Minha jornada é movida pela curiosidade em analisar, explorar e visualizar dados, buscando sempre apresentar insights de forma clara e impactante. Além disso, sou um entusiasta da automação de processos e fascinado pelo potencial transformador da Inteligência Artificial, buscando ativamente oportunidades para aplicar minhas habilidades e contribuir para projetos inovadores nessas áreas.
-
----
-
-### 🛠️ Habilidades Técnicas 🛠️
-
-**Linguagens de Programação:** `Python`, `SQL`
-
-**Machine Learning:** `Scikit-learn`, `XGBoost`, `Pandas`, `NumPy`
-
-**Visualização de Dados:** `Matplotlib`, `Seaborn`, `Power BI`, `Plotly`
-
-**Ferramentas e Tecnologias:** `Git`, `Docker`, `Jupyter Notebook`, `Google Colab`, `Linux`
+Sou um cara apaixonado por tecnologia, aprendizado constante e por transformar ideias em projetos reais. Depois de uma jornada intensa nos estudos de Ciência de Dados, decidi expandir meus horizontes e estou migrando oficialmente para **Análise e Desenvolvimento de Sistemas**. Isso não significa abandonar os dados — pelo contrário, continuo trazendo essa bagagem valiosa comigo para desenvolver soluções completas, inteligentes e eficientes.
 
 ---
 
-### 🚀 Projetos em Destaque 🚀
+## 🚀 Um pouco sobre mim
 
-Confira alguns dos meus projetos que demonstram minhas habilidades e paixão por Ciência de Dados:
-
-**1. [Churn Prediction: Desvendando a Evasão de Clientes](https://github.com/M-4vlis/churn-prediction)**
-   - Modelo de Machine Learning para prever a probabilidade de churn de clientes em empresas de telecomunicações. Utilizei técnicas de pré-processamento, engenharia de features e seleção de modelos para obter alta performance.
-   - `Python`, `Pandas`, `Scikit-learn`, `Visualização de Dados`
-
-**2. [E-mail Sender: Automação Web para Marketing Eficaz](https://github.com/M-4vlis/seu-repositorio-email-sender)**
-   - Aplicação web para automação de envio de e-mails em massa, com funcionalidades como templates personalizáveis e agendamento.
-   - `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `Python`, `Flask`
-
-**3. [Meu Portfólio Digital](https://m-4vlis.github.io/)**
-   - Um portfólio online para apresentar minha jornada, habilidades e projetos de forma interativa e elegante.
-   - `HTML`, `CSS`, `JavaScript`, `Design Responsivo`
+🧠 Curioso por natureza, sempre buscando entender como as coisas funcionam por trás dos bastidores.  
+💻 Atualmente trabalho como assistente administrativo, mas estou construindo meu caminho como desenvolvedor.  
+👨‍👩‍👧‍👦 Casado, pai de um casal, e ninja na arte de conciliar trabalho, estudos, família e projetos (nem sempre fácil, mas tamo junto).  
+📍 Baseado no RJ, cruzo a cidade todo dia, mas aproveito cada minuto livre para estudar e evoluir.
 
 ---
 
-### 📊 Estatísticas do GitHub 📊
+## 💡 O que estou aprendendo agora
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=M-4vlis&theme=dark)](https://git.io/streak-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=M-4vlis&layout=compact&theme=vision-friendly-dark)](https://github.com/M-4vlis)
-
----
-
-### 📫 Conecte-se Comigo 📫
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omario-silva96)
-[![Email](https://img.shields.io/badge/-Email-%23EA4335?style=flat-square&logo=gmail)](mailto:omario.pereira96@gmail.com)
+- Fundamentos sólidos de **Desenvolvimento de Software**
+- **Python** como minha linguagem principal (não larguei, só tô ampliando o uso)
+- **APIs, Banco de Dados, Web e Automatizações**
+- **Boas práticas de código, POO, Clean Code** e outras nerdices que me fascinam
+- **Projetos reais** com foco em resolver problemas do mundo real
 
 ---
 
-Feito com ❤️ e análise de dados!
+## 🛠️ Projetos em Destaque
+
+- **🔁 Automação de E-mails em Massa**: Uma solução que criei para otimizar o processo de solicitação de cotações com fornecedores. Reduzi horas de trabalho repetitivo com algumas linhas de código.  
+- **📉 Projeto Churn de Clientes**: Análise preditiva usando IA para prever cancelamentos de clientes — minha porta de entrada no mundo da modelagem de dados.  
+- **🌐 Landing Page Pessoal**: Site responsivo e direto ao ponto com meu portfólio, feito com carinho e código no GitHub Pages.
+
+> [💻 Acesse minha landing page](https://seulink.github.io)  
+> [📁 Veja meus repositórios](https://github.com/M-4vlis)
+
+---
+
+## 🧭 Minha Vibe
+
+> “Não sou apenas um número ou um cargo. Sou um cara em transição, aprendendo, errando, acertando e crescendo.”  
+>  
+> Este perfil é a junção das minhas conquistas, dos meus tropeços e, principalmente, da minha vontade de construir algo maior.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-4vlis&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-4vlis&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-4vlis&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-4vlis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
